@@ -160,11 +160,4 @@ It highlights the importance of preprocessing, feature selection, and evaluation
 
 ---
 
-## 👨‍💻 Author
-
-**Tejendra Singh**
-CSE (AI) | Machine Learning Enthusiast
-
----
-
 ## ⭐ If you found this useful, consider giving a star!
