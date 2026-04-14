@@ -16,7 +16,7 @@ Traditional rule-based systems fail to detect modern attack patterns.
 
 👉 This project uses **machine learning** to automatically learn and detect such patterns.
 
----
+--
 
 ## 🧠 Approach
 
