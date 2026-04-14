@@ -5,7 +5,7 @@
 This project focuses on detecting **Distributed Denial of Service (DDoS) attacks** using machine learning techniques.
 By analyzing network traffic data, the model classifies whether the traffic is **normal or malicious (attack)**.
 
-The goal is to build a **reliable, scalable, and data-driven system** that can assist in early detection of cyber threats.
+The goal is to build a **reliable, scalable, and data-driven system** that can assist in early detection of Cyber threats.
 
 ---
 
