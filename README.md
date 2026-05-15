@@ -18,7 +18,7 @@ Traditional rule-based systems fail to detect modern attack patterns.
 
 --
 
-## 🧠 Approach
+## 🧠 Approach!
 
 We implemented a complete ML pipeline:
 
