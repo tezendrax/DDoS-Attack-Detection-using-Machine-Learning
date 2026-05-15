@@ -35,7 +35,7 @@ We implemented a complete ML pipeline:
 8. Model Evaluation
 9. Model Comparison
 
----
+----
 
 ## 🏗️ Architecture
 
