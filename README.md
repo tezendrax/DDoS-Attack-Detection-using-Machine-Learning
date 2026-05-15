@@ -9,7 +9,7 @@ The goal is to build a **reliable, scalable, and data-driven system** that can a
 
 ---
 
-## 🎯 Problem Statement!!
+## 🎯 Problem Statement!
 
 DDoS attacks overwhelm systems with massive traffic, making services unavailable to legitimate users.
 Traditional rule-based systems fail to detect modern attack patterns.
